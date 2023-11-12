@@ -11,7 +11,7 @@
 Final project for CMPT 125: Intro to Programming II
 
 ## Summary
-This is an algorithm for solving the Travelling Salesman Problem, written in C++
+This is an algorithm for solving the Travelling Salesman Problem written in C++ with test cases
 
 ## Installation
 Via https
